@@ -4,4 +4,6 @@ const lines = [
     "Javascript is amazing"
 ]
 
-for(const line of lines) console.log(line)
+for(const line of lines) {
+    console.log(line)
+}
